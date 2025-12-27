@@ -70,9 +70,6 @@ a {
 
 .nav li.active a,
 .nav a:hover {
-}
-
-.nav a:hover {
   color: #171100;
   /* font-weight: 600; */
   text-shadow: 1px 0 0 currentColor;
